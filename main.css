@@ -19,6 +19,12 @@
   font-size: 30px;
 }
 
+.accordion-description {
+  height: 0;
+  overflow: hidden;
+  background-color: #f8f8f8;
+}
+
 @media (min-width: 768px) P{
   #accordion {
     width: 60%;
