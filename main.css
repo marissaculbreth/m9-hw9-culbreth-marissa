@@ -25,6 +25,11 @@
   background-color: #f8f8f8;
 }
 
+.accordion-open {
+  height: 100px;
+  padding: 5px 20px;
+}
+
 @media (min-width: 768px) P{
   #accordion {
     width: 60%;
