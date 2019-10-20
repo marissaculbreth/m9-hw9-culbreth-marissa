@@ -23,11 +23,13 @@
   height: 0;
   overflow: hidden;
   background-color: #f8f8f8;
+  transition: height 1s;
 }
 
 .accordion-open {
   height: 100px;
   padding: 5px 20px;
+  transition: height 1s;
 }
 
 @media (min-width: 768px) P{
